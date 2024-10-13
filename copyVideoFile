@@ -1,0 +1,4 @@
+import shutil
+for x in range(99):
+  shutil.copyfile("C:\\work\\videoIO\\a.mov", "C:\\work\\videoIO\\tmp\\"+str(x)+".mov")
+  # print (x)
