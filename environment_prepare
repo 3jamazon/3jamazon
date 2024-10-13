@@ -1,0 +1,3 @@
+pip install ffmpeg-python
+pip install --upgrade pip
+pip install opencv-python
